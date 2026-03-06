@@ -1,0 +1,12 @@
+sql:
+  - "**/*.sql"
+
+joins:
+  - JOINS/**
+
+normalization:
+  - NORMALIZATION/**
+
+documentation:
+  - "**/*.md"
+  - PDFs/**
